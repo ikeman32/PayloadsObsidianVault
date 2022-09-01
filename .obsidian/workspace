@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "220f07604073a0fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbc756f0a55975d0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "About.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf89bcf34cde307e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d66f0a6bececf238",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e5703c4b8e51e2c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "69f41276d633c258",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "001d1727e1ba43f4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4c178218a17524b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "de6f2408a75f0b4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59e42148ea8f5e96",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "About.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd05d9414ba8e9aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "About.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4ca3840f3f267056",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "35805f806b770519",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "About.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "fbc756f0a55975d0",
+  "lastOpenFiles": [
+    "LICENSE.md",
+    "About.md",
+    "000-MOC-Security.md",
+    "_template_vuln/Template_Vlun.md",
+    "Contributing.md",
+    "Twitter.md",
+    "YouTube.md",
+    "API Key Leaks/API_Key_Leaks.md",
+    "Upload Insecure Files/Server Side Include/Server-Side-Include.md",
+    "Upload Insecure Files/Picture Metadata/Picture-Metadata.md"
+  ]
+}
